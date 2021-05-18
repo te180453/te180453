@@ -1,4 +1,4 @@
-### Hi there 👋😄
+### Hi there 👋🤔
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=te180453)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=te180453)
 <!--
